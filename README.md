@@ -1,2 +1,2 @@
 # PAEAP_RenovacionPrestamo
-Desarrollo de Proyecto de Renovación de Préstamo
+Proyecto Data Science para Renovación de Préstamo
